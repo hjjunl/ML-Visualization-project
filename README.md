@@ -7,4 +7,4 @@
 - Report visualization by using Plotly Dash
 - Connect to DB and get the weekly or monthly report
 
-* Has some practice app for myself
+Has some practice app for myself
